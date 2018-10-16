@@ -1,2 +1,2 @@
 hello git
-Creating a new branch is quick ANG simple.
+Creating a new branch is quick & simple.
