@@ -1,1 +1,2 @@
-Creating a new branch is quick and simple and hhhh.
+Creating a new branch is quick and simple and merge.
+
